@@ -1,0 +1,5 @@
+config.py
+.mpy
+cert
+priv-key
+.DS_Store
